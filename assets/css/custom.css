@@ -2,3 +2,10 @@
     margin: 10px;
     padding: 5px;
 }
+.dwnload-btn{
+    float: right;
+    padding: 5px;
+    border-bottom: solid;
+    border-color: #18d26e;
+
+}
